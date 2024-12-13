@@ -55,7 +55,9 @@ The dataset captures transactional data from a Europe-based bike sales business,
 
    The graph shows that **Adults (35-54)** generate the highest revenue across all product categories, with **clothing** being the dominant contributor, followed by 
    **Accessories**. **Young Adults (25-34)** rank second in revenue, while **Youth (<25)** contribute the least. This indicates that marketing efforts should focus on 
-   **Adults** and enhancing engagement with the **younger age group**.<br>
+   **Adults** and enhancing engagement with the **younger age group**.
+   <br>
+   <br>
 
 2. How has the revenue trended over time compared to profit?<br>
 
@@ -68,7 +70,9 @@ The dataset captures transactional data from a Europe-based bike sales business,
 
    The graph shows that revenue is consistently higher than profit over time, with significant fluctuations in both. A notable gap exists between revenue and profit, 
    suggesting high operating costs or expenses. This dynamic environment highlights the need for deeper analysis to identify causes of volatility, manage risks, and 
-   leverage periods of growth.<br>
+   leverage periods of growth.
+   <br>
+   <br>
 
 3. How does revenue change over time?<br>
 
@@ -80,7 +84,9 @@ The dataset captures transactional data from a Europe-based bike sales business,
    ![Graph -2](https://github.com/user-attachments/assets/cdbebb72-f1dc-49b2-adb7-5cebbe3bbe38)
 
    Revenue spikes occur periodically without a steady trend, reflecting dynamic customer behavior or event-driven sales. Understanding the drivers of these peaks (e.g., 
-   promotions or seasonal demand) can help smooth revenue fluctuations and optimize strategies for periods of lower activity.<br>
+   promotions or seasonal demand) can help smooth revenue fluctuations and optimize strategies for periods of lower activity.
+   <br>
+   <br>
 
 4. What are the top 5 sub-categories by profit margins, and how do they compare?<br>
 
@@ -93,7 +99,9 @@ The dataset captures transactional data from a Europe-based bike sales business,
 
    The key insight is that **Bottles and Cages** lead profit margins **(58.52%)**, followed by **Bike Racks (21.98%)** and **Bike Stands (14.58%)**, while **Cameras and 
    Electronics** are relatively low **(4.92%)**. This indicates the need to focus on the most profitable categories to drive profitability further while exploring 
-   opportunities to improve lower-margin products.<br>
+   opportunities to improve lower-margin products.
+   <br>
+   <br>
 
 5. Which states have the highest sales revenue for the top 6 products?<br>
 
@@ -105,7 +113,9 @@ The dataset captures transactional data from a Europe-based bike sales business,
    ![Graph -8](https://github.com/user-attachments/assets/b017d811-acbb-4d4e-a16b-93b3a4be2fa0)
 
    **California** leads in **product sales**, with **British Columbia** and **England** also showing strong performance. Other states show moderate sales, indicating a need 
-   to focus efforts on these top-performing regions and products for better overall revenue.<br>
+   to focus efforts on these top-performing regions and products for better overall revenue.
+   <br>
+   <br>
 
 6. What are the key regions for further investment and growth opportunities?<br>
 
@@ -118,7 +128,9 @@ The dataset captures transactional data from a Europe-based bike sales business,
 
    The map highlights Country-wise Profit, with **Canada** and the **United States** showing the highest profitability, followed by select regions in **Europe**. **Asia** 
    and **Oceania** show growth potential, while **South America** and **Africa** contribute minimally. A focus on optimizing top markets, while strategies for expanding in 
-   Asia and Oceania, and penetrating low-performing regions, can drive global growth. <br>
+   Asia and Oceania, and penetrating low-performing regions, can drive global growth.
+   <br>
+   <br>
 
 7. How do different product types compare in revenue contribution?<br>
 
@@ -130,7 +142,9 @@ The dataset captures transactional data from a Europe-based bike sales business,
    ![Graph -10](https://github.com/user-attachments/assets/c97b54f4-636b-4d6c-b220-e39acd76d552)
 
    This word cloud highlights the top products by revenue, emphasizing items like the **Hitch_Rack_4_Bike** and **AWC_Logo_Cap**, which stand out as major revenue drivers 
-   followed by **All_Purpose_Bike_Stand** and **Mountain_Bottle_Cage**.<br>
+   followed by **All_Purpose_Bike_Stand** and **Mountain_Bottle_Cage**.
+   <br>
+   <br>
 
 8. What is the Country wise Ordered Quantity?<br>
 
@@ -142,7 +156,9 @@ The dataset captures transactional data from a Europe-based bike sales business,
    ![Graph -9 (1)](https://github.com/user-attachments/assets/a73927e5-5caf-4eaa-b131-96f99e67b02b)
 
    The **United States** leads in order quantity **(109,830 units)**, followed by Australia (61,395 units). While maintaining dominance in the U.S., strategies to boost 
-   sales in underperforming regions like Germany and "Others" could unlock additional growth potential.<br>
+   sales in underperforming regions like Germany and "Others" could unlock additional growth potential.
+   <br>
+   <br>
 
 9. What proportion of total revenue is contributed by profit, and how does the average unit cost compare to the average unit price?<br>
 
@@ -155,6 +171,8 @@ The dataset captures transactional data from a Europe-based bike sales business,
 
    Profit constitutes 50.3% of total revenue ($1.39M of $2.75M), indicating a healthy profit margin. This reflects efficient cost management, offering opportunities to 
    reinvest profits strategically for growth, optimize costs further, or develop sustainable pricing models to maintain profitability.
+   <br>
+   <br>
    
 10. What proportion of total revenue is contributed by profit, and how does the average unit cost compare to the average unit price?<br>
 
@@ -167,6 +185,8 @@ The dataset captures transactional data from a Europe-based bike sales business,
 
     With an average unit cost of $5.76 making up 42.7% of the average unit price ($13.50), the business maintains a strong profit margin. This cost structure allows 
     competitive pricing while sustaining profitability. Strategic cost reductions or price adjustments could further enhance margins.
+    <br>
+    <br>
 
 
 ## Managerial Insights<br>
