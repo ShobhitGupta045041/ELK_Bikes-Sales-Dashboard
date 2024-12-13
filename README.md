@@ -46,7 +46,7 @@ The dataset captures transactional data from a Europe-based bike sales business,
 
 1. Which age group contributes the most revenue to the business product category wise?<br>
 
-   <u>**Age Group Sales Distribution by Product Category**</u>
+   <ins>**Age Group Sales Distribution by Product Category**</ins>
 
    **Description:** This bar chart displays sales values for Accessories and Clothing across two age groups: Adults (35-64) and Youth (<25). It helps identify the core 
    customer demographic and their product preferences, supporting targeted marketing strategies and refined efforts for youth-focused campaigns.
@@ -61,7 +61,7 @@ The dataset captures transactional data from a Europe-based bike sales business,
 
 2. How has the revenue trended over time compared to profit?<br>
 
-   <u>**Revenue and Profit Trend Over Time**</u>
+   <ins>**Revenue and Profit Trend Over Time**</ins>
 
    **Description:** This line chart illustrates trends in revenue and profit over a specific time period, highlighting fluctuations and divergences between the two metrics. 
    The chart provides insights into financial performance dynamics, helping to analyze volatility drivers and stabilize profits during revenue fluctuations.
@@ -76,7 +76,7 @@ The dataset captures transactional data from a Europe-based bike sales business,
 
 3. How does revenue change over time?<br>
 
-   <u>**Revenue Over Time**</u>
+   <ins>**Revenue Over Time**</ins>
 
    **Description:** This line chart tracks revenue over time, showcasing spikes and fluctuations in customer demand or event-driven sales. The chart identifies drivers 
    behind revenue spikes, optimizes strategies for low-revenue periods, and smoothens revenue fluctuations for consistent performance.
@@ -90,7 +90,7 @@ The dataset captures transactional data from a Europe-based bike sales business,
 
 4. What are the top 5 sub-categories by profit margins, and how do they compare?<br>
 
-   <u>**Product Profit Margin Analysis by Subcategory**</u>
+   <ins>**Product Profit Margin Analysis by Subcategory**</ins>
 
    **Description:** This donut chart displays profit margins for various product subcategories, ranking them from highest to lowest. It enables prioritization of high- 
    margin products and exploration of opportunities to improve profitability in lower-margin items.
@@ -105,7 +105,7 @@ The dataset captures transactional data from a Europe-based bike sales business,
 
 5. Which states have the highest sales revenue for the top 6 products?<br>
 
-   <u>**Sales Performance Analysis by Products**</u>
+   <ins>**Sales Performance Analysis by Products**</ins>
 
    **Description:** This heat map chart visualizes sales performance by geographic regions, such as California, British Columbia, and England. The chart aids in sustaining 
    growth in high-performing regions and identifies potential for expansion in underperforming markets.
@@ -119,7 +119,7 @@ The dataset captures transactional data from a Europe-based bike sales business,
 
 6. What are the key regions for further investment and growth opportunities?<br>
 
-   <u>**Country-Wise Revenue**</u>
+   <ins>**Country-Wise Revenue**</ins>
 
    **Description:** This map shows the revenue contribution of different countries, providing a comparative analysis of global market performance. It guides resource 
    allocation in dominant markets while identifying emerging regions and untapped potential for growth.
@@ -134,7 +134,7 @@ The dataset captures transactional data from a Europe-based bike sales business,
 
 7. How do different product types compare in revenue contribution?<br>
 
-   <u>**Top Product by Revenue**</u>
+   <ins>**Top Product by Revenue**</ins>
 
    **Description:** This word cloud chart ranks products by the revenue they generate, highlighting the best and worst-performing items. The chart informs resource 
    allocation for top-performing products and identifies areas for improvement in pricing or demand for underperforming items.
@@ -148,7 +148,7 @@ The dataset captures transactional data from a Europe-based bike sales business,
 
 8. What is the Country wise Ordered Quantity?<br>
 
-   <u>**Country-Wise Order Quantity**</u>
+   <ins>**Country-Wise Order Quantity**</ins>
 
    **Description:** This waffle chart displays order quantities by country, comparing sales volumes across different regions. It strengthens sales efforts in leading 
    markets and identifies opportunities to boost demand in underperforming regions for broader penetration.
@@ -162,7 +162,7 @@ The dataset captures transactional data from a Europe-based bike sales business,
 
 9. What proportion of total revenue is contributed by profit, and how does the average unit cost compare to the average unit price?<br>
 
-   <u>**Profit as a Part of Revenue**</u>
+   <ins>**Profit as a Part of Revenue**</ins>
 
    **Description:** This gauge chart illustrates the proportion of profit within total revenue, showcasing overall profit margin efficiency. It evaluates cost management 
    effectiveness, supports reinvestment decisions, and informs pricing strategies to maintain profitability.
@@ -176,7 +176,7 @@ The dataset captures transactional data from a Europe-based bike sales business,
    
 10. What proportion of total revenue is contributed by profit, and how does the average unit cost compare to the average unit price?<br>
 
-    <u>**Average Unit Cost as a Part of Average Unit Price**</u>
+    <ins>**Average Unit Cost as a Part of Average Unit Price**</ins>
 
     **Description:** This gauge chart compares the average unit cost with the average unit price, showing their relationship and cost-to-price ratio. The chart evaluates 
     pricing strategies, highlighting areas for cost reduction and ensuring competitive yet profitable pricing structures.
