@@ -5,8 +5,7 @@ The Bike Sales Dashboard is a comprehensive tool developed using the ELK (Elasti
 ## About Dataset<br>
 The dataset captures transactional data from a Europe-based bike sales business, covering customer demographics, product details, and financial metrics. It includes variables like date, customer age, gender, location (country, state), and ISO country codes for geographic insights. Product details are organized into categories and sub-categories, while financial metrics such as order quantity, unit cost, unit price, profit, cost, and revenue reflect sales performance. This dataset enables analysis of customer behavior, sales trends, and profitability, providing insights to optimize marketing and operational strategies. It is ideal for understanding the European bike market and improving business decision-making.<br>
 
-[Dataset](https://www.kaggle.com/datasets/sadiqshah/bike-sales-in-europe)<br>
-
+<a href="https://www.kaggle.com/datasets/sadiqshah/bike-sales-in-europe">Dataset Link</a>
 ### Column description:
 - Date: The specific calendar date of the transaction.<br>
 - Day: The day of the week the transaction occurred.<br>
@@ -27,10 +26,20 @@ The dataset captures transactional data from a Europe-based bike sales business,
 - Cost: The total cost incurred by the seller for the order (Order_Quantity × Unit_Cost).<br>
 - Revenue: The total money earned from the transaction (Order_Quantity × Unit_Price).<br>
 
+
 ## Dashboard
 ![Complete Dashboard](https://github.com/user-attachments/assets/d27eae90-e264-4bf7-92a9-e4254ce06918)
 
+**Description:** The video demonstrates, the dynamic capabilities of the dashboard built using the ELK Stack. The focus is on utilizing controls and filters to interact with the data in real-time. By applying various filters, such as timestamp, state and subcategory, the dashboard dynamically updates to reflect the selected criteria. Controls like dropdown menus, and sliders, allow seamless customization and exploration of the dataset. This interactive approach helps users in data-driven decision-making.
+
+
 [ELK_Dashboard_Video.webm](https://github.com/user-attachments/assets/97faec29-08c1-4621-b8ac-98352e7b573f)
+
+<br>
+
+
+[Video_ELK_2 (1).webm](https://github.com/user-attachments/assets/0b0ea227-b86b-4b31-983a-a0bd80f2ca2b)
+
 
 
 ## Charts<br>
@@ -48,7 +57,7 @@ The dataset captures transactional data from a Europe-based bike sales business,
    **Accessories**. **Young Adults (25-34)** rank second in revenue, while **Youth (<25)** contribute the least. This indicates that marketing efforts should focus on 
    **Adults** and enhancing engagement with the **younger age group**.<br>
 
-3. How has the revenue trended over time compared to profit?<br>
+2. How has the revenue trended over time compared to profit?<br>
 
    **Revenue and Profit Trend Over Time**
 
@@ -61,7 +70,7 @@ The dataset captures transactional data from a Europe-based bike sales business,
    suggesting high operating costs or expenses. This dynamic environment highlights the need for deeper analysis to identify causes of volatility, manage risks, and 
    leverage periods of growth.<br>
 
-4. How does revenue change over time?<br>
+3. How does revenue change over time?<br>
 
    **Revenue Over Time**
 
@@ -73,7 +82,7 @@ The dataset captures transactional data from a Europe-based bike sales business,
    Revenue spikes occur periodically without a steady trend, reflecting dynamic customer behavior or event-driven sales. Understanding the drivers of these peaks (e.g., 
    promotions or seasonal demand) can help smooth revenue fluctuations and optimize strategies for periods of lower activity.<br>
 
-5. What are the top 5 sub-categories by profit margins, and how do they compare?<br>
+4. What are the top 5 sub-categories by profit margins, and how do they compare?<br>
 
    **Product Profit Margin Analysis by Subcategory**
 
@@ -86,7 +95,7 @@ The dataset captures transactional data from a Europe-based bike sales business,
    Electronics** are relatively low **(4.92%)**. This indicates the need to focus on the most profitable categories to drive profitability further while exploring 
    opportunities to improve lower-margin products.<br>
 
-6. Which states have the highest sales revenue for the top 6 products?<br>
+5. Which states have the highest sales revenue for the top 6 products?<br>
 
    **Sales Performance Analysis by Products**
 
@@ -98,7 +107,7 @@ The dataset captures transactional data from a Europe-based bike sales business,
    **California** leads in **product sales**, with **British Columbia** and **England** also showing strong performance. Other states show moderate sales, indicating a need 
    to focus efforts on these top-performing regions and products for better overall revenue.<br>
 
-7. What are the key regions for further investment and growth opportunities?<br>
+6. What are the key regions for further investment and growth opportunities?<br>
 
    **Country-Wise Revenue**
 
@@ -111,7 +120,7 @@ The dataset captures transactional data from a Europe-based bike sales business,
    and **Oceania** show growth potential, while **South America** and **Africa** contribute minimally. A focus on optimizing top markets, while strategies for expanding in 
    Asia and Oceania, and penetrating low-performing regions, can drive global growth. <br>
 
-8. How do different product types compare in revenue contribution?<br>
+7. How do different product types compare in revenue contribution?<br>
 
    **Top Product by Revenue**
 
@@ -123,7 +132,7 @@ The dataset captures transactional data from a Europe-based bike sales business,
    This word cloud highlights the top products by revenue, emphasizing items like the **Hitch_Rack_4_Bike** and **AWC_Logo_Cap**, which stand out as major revenue drivers 
    followed by **All_Purpose_Bike_Stand** and **Mountain_Bottle_Cage**.<br>
 
-9. What is the Country wise Ordered Quantity?<br>
+8. What is the Country wise Ordered Quantity?<br>
 
    **Country-Wise Order Quantity**
 
@@ -135,7 +144,7 @@ The dataset captures transactional data from a Europe-based bike sales business,
    The **United States** leads in order quantity **(109,830 units)**, followed by Australia (61,395 units). While maintaining dominance in the U.S., strategies to boost 
    sales in underperforming regions like Germany and "Others" could unlock additional growth potential.<br>
 
-10. What proportion of total revenue is contributed by profit, and how does the average unit cost compare to the average unit price?<br>
+9. What proportion of total revenue is contributed by profit, and how does the average unit cost compare to the average unit price?<br>
 
    **Profit as a Part of Revenue**
 
@@ -147,7 +156,7 @@ The dataset captures transactional data from a Europe-based bike sales business,
    Profit constitutes 50.3% of total revenue ($1.39M of $2.75M), indicating a healthy profit margin. This reflects efficient cost management, offering opportunities to 
    reinvest profits strategically for growth, optimize costs further, or develop sustainable pricing models to maintain profitability.
    
-11. What proportion of total revenue is contributed by profit, and how does the average unit cost compare to the average unit price?<br>
+10. What proportion of total revenue is contributed by profit, and how does the average unit cost compare to the average unit price?<br>
 
     **Average Unit Cost as a Part of Average Unit Price**
 
