@@ -5,7 +5,11 @@ The Bike Sales Dashboard is a comprehensive tool developed using the ELK (Elasti
 ## About Dataset<br>
 The dataset captures transactional data from a Europe-based bike sales business, covering customer demographics, product details, and financial metrics. It includes variables like date, customer age, gender, location (country, state), and ISO country codes for geographic insights. Product details are organized into categories and sub-categories, while financial metrics such as order quantity, unit cost, unit price, profit, cost, and revenue reflect sales performance. This dataset enables analysis of customer behavior, sales trends, and profitability, providing insights to optimize marketing and operational strategies. It is ideal for understanding the European bike market and improving business decision-making.<br>
 
-<a href="https://www.kaggle.com/datasets/sadiqshah/bike-sales-in-europe">Dataset Link</a>
+<a href="https://www.kaggle.com/datasets/sadiqshah/bike-sales-in-europe">Dataset Link</a><br>
+
+
+![image](https://github.com/user-attachments/assets/03a1046f-ebb2-4f7a-8cee-e0a3a85ecfbf)<br>
+
 ### Column description:
 - Date: The specific calendar date of the transaction.<br>
 - Day: The day of the week the transaction occurred.<br>
